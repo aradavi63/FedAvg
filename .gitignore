@@ -3,3 +3,14 @@
 **/__pycache__
 wandb/
 *.pyc
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+data/
+results*/
+log*/
+*.log
